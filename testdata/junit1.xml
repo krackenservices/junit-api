@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="example22222" tests="2" failures="1" time="1.506">
+    <testsuite name="exampleTestSuite" tests="2" failures="1" time="1.206">
+        <testcase classname="exampleTestClass" name="testExample1" time="0.603"/>
+        <testcase classname="exampleTestClass" name="testExample2" time="0.603">
+            <failure message="AssertionError">Expected value did not match actual value</failure>
+        </testcase>
+    </testsuite>
+</testsuites>
